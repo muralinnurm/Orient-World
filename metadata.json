@@ -1,0 +1,7 @@
+{
+  "name": "Orient World | Authentic Near-Eastern Flavors in Zürich",
+  "description": "A premium, modern redesign for Orient World, showcasing authentic Levantine cuisine with a cinematic and elegant dining experience in the heart of Zürich.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
